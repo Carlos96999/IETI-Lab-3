@@ -635,10 +635,10 @@ class SecurityConfiguration : WebSecurityConfigurerAdapter() {
 
 ### Evidencias
 Se realiza la petición post para obtener el token del usuario  
-img align="right" src="https://github.com/Carlos96999/IETI-Lab-3/blob/codelab-implementation/Evidencias/parteTresPost.PNG">  
+<img src="https://github.com/Carlos96999/IETI-Lab-3/blob/codelab-implementation/Evidencias/parteTresPost.PNG?raw=true">  
   
   Se realiza la petición get para verificar el usuario
-  img align="right" src="https://github.com/Carlos96999/IETI-Lab-3/blob/codelab-implementation/Evidencias/parteTresGet.PNG">
+  <img src="https://github.com/Carlos96999/IETI-Lab-3/blob/codelab-implementation/Evidencias/parteTresGet.PNG?raw=true">
 
 ### Challenge Yourself: Implement a mechanism to support Application tokens
 
