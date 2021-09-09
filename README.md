@@ -633,6 +633,13 @@ class SecurityConfiguration : WebSecurityConfigurerAdapter() {
          Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MTMwZmMzMWYwNTk2YzE0YzRiOWY5NTMiLCJhZGFfcm9sZXMiOlsiVVNFUiJdLCJpYXQiOjE2MzA2MDAzMjAsImV4cCI6MTYzMDY4NjcyMH0.s29NZMHYDCsCXqj9W9ZajNnlwyzW4qJG832Z3PXhwhk
       ```
 
+### Evidencias
+Se realiza la petición post para obtener el token del usuario  
+img align="right" src="https://github.com/Carlos96999/IETI-Lab-3/blob/codelab-implementation/Evidencias/parteTresPost.PNG">  
+  
+  Se realiza la petición get para verificar el usuario
+  img align="right" src="https://github.com/Carlos96999/IETI-Lab-3/blob/codelab-implementation/Evidencias/parteTresGet.PNG">
+
 ### Challenge Yourself: Implement a mechanism to support Application tokens
 
 1. Implement a new method in the *AuthController* that receives an encrypted secret and verify that the secret is the
